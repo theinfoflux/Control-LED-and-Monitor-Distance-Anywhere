@@ -1,0 +1,3 @@
+#define SECRET_DEVICE_KEY "2ygdyhWvBgZ4ZzxftbiO?s8PR"
+#define SECRET_OPTIONAL_PASS "12345678"
+#define SECRET_SSID "AndroidAP3DEC"
